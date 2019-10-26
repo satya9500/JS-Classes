@@ -4,7 +4,7 @@ This repo is for the purpose of learning the basics of JavaScript. It is made un
 
 ## Index
 
-* [Day 0](/DAY%200/) : Contains introduction to JS.
+* [Day 0](/DAY%200/) : Contains introduction to JavaScript.
 * [Day 1](/DAY%201/) : Contains basic syntax and [Assignment-1](/DAY%201/assignment-1.md)
 
 ### Contributors
