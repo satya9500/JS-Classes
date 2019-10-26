@@ -34,11 +34,11 @@ You can have objects in an Array. You can have functions in an Array. You can ha
     
     
 myArray[0] = Date.now;
-myArray[1] = myFunction;
+myArray[1] = myFunc;
 myArray[2] = myCars;
 </code>
 
-<h2>Looping Array Elements</h2>
+<h2>Loops in Array</h2>
 
 <h4>The safest way to loop through an array, is using a for loop:</h4>
 <code> 
